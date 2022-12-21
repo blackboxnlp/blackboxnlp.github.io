@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "Analyzing and interpreting neural networks for NLP"
+description: "Workshop on analyzing and interpreting neural networks for NLP"
+show_downloads: false
+logo: logo.svg
