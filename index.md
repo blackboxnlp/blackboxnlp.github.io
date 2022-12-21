@@ -1,4 +1,4 @@
-# BlackboxNLP 2022
+# BlackboxNLP 2023
 
 There will be a sixth edition of BlackboxNLP! 
 It will be collocated with EMNLP 2023.
