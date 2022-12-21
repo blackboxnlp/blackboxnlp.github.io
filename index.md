@@ -6,7 +6,7 @@ It will be collocated with EMNLP 2023.
 ## News
 
 - BlackboxNLP will be back in 2023 co-located with EMNLP 2023!
-- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch this year's keynotes. 
+- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes. 
 
 ## Important dates
 
