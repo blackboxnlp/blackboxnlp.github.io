@@ -90,7 +90,7 @@ Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computa
 
 
 ### Hosein Mohebbi
-Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium: Interpreting Deep Learning Models for Text and Sound, addressing research problems on interpreting neural language models. During his Master’s (2019-2021), he focused mainly on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EMNLP and BlackboxNLP.
+Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
 
 
 ## Anti-Harassment Policy
