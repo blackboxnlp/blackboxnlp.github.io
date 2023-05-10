@@ -1,47 +1,50 @@
 # BlackboxNLP 2023
-
-There will be a sixth edition of BlackboxNLP! 
-It will be co-located with EMNLP 2023.
+The sixth edition of BlackboxNLP will be co-located with EMNLP 2023, in Singapore December 6-10.
 
 ## News
-
-- BlackboxNLP will be back in 2023 co-located with EMNLP 2023!
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes. 
 
 ## Important dates
 
-TBD
+- **September 1, 2023** - Paper submission deadline (via Softconf, link TBA).
+- **October 6, 2023** - Notification of acceptance.
+- **October 18, 2023** - Camera ready deadline.
+- **December 7, 2023** - Workshop date.
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ## Workshop description
 
-Many recent performance improvements in NLP have come at the cost of understanding of the systems. How do we assess what representations and computations models learn? How do we formalize desirable properties of interpretable models, and measure the extent to which existing models achieve them? How can we build models that better encode these properties? What can new or existing tools tell us about systems’ inductive biases?
+Many recent performance improvements in NLP have come at the cost of understanding of the systems. How do we assess what representations and computations models learn? How do we formalize desirable properties of interpretable models, and measure the extent to which existing models achieve them? How can we build models that better encode these properties? What can new or existing tools tell us about these systems’ inductive biases?
 
-The goal of this workshop is to bring together researchers focused on interpreting and explaining NLP models by taking inspiration from machine learning, psychology, linguistics, and neuroscience. We hope the workshop will serve as an interdisciplinary meetup that allows for cross-collaboration.
+The goal of this workshop is to bring together researchers focused on interpreting and explaining NLP models by taking inspiration from fields such as machine learning, psychology, linguistics, and neuroscience. We hope the workshop will serve as an interdisciplinary meetup that allows for cross-collaboration.
 
 The topics of the workshop include, but are not limited to:
-- Explanation methods such as saliency, attribution, free-text explanations, or explanations with structured properties
-- Probing methods for testing whether models have acquired or represent certain linguistic properties
-- Applying analysis techniques from other disciplines (e.g., neuroscience or computer vision)
-- Examining model performance on simplified or formal languages
-- More interpretable model architectures
-- Open-source tools for analysis, visualization, or explanation;
-- Evaluation of explanation methods
-- Opinion pieces about the state of explainable NLP
+- Explanation methods such as saliency, attribution, free-text explanations, or explanations with structured properties.
+- Mechanistic interpretability, reverse engineering approaches to understanding particular properties of neural models.
+- Probing methods for testing whether models have acquired or represent certain linguistic properties.
+- Applying analysis techniques from other disciplines (e.g., neuroscience or computer vision).
+- Examining model performance on simplified or formal languages.
+- Proposing modifications to neural architectures that increase their interpretability.
+- Open-source tools for analysis, visualization, or explanation.
+- Evaluation of explanation methods: how do we know the explanation is faithful to the model?
+- Opinion pieces about the state of explainable NLP.
 
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
+All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through Softconf (the submission link will be made available as soon as possible).
 
-TBD
 
 ### Submission Types
+- **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original and unpublished research. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 9th page.
+- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross-submissions of work that has already appeared (or is scheduled to appear) in another venue in 2022-2023. Abstract titles will be posted on the workshop website but will not be included in the proceedings. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
 
-TBD
+Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
 
 ### Dual Submissions and Preprints
-Dual submissions are **not** allowed for the archival track. Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
+Dual submissions **are** allowed for the archival track. Papers posted to preprint servers such as arXiv can be submitted without any restrictions on when they were posted.
 
 ### Camera-ready information
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.

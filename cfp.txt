@@ -1,0 +1,71 @@
+BlackboxNLP 2023: Analyzing and interpreting neural networks for NLP -- EMNLP 2023
+When: December 7, 2023
+Where: EMNLP 2023, Singapore
+Website: https://blackboxnlp.github.io
+
+Workshop description
+-----------------------------
+Many recent performance improvements in NLP have come at the cost of understanding 
+of the systems. How do we assess what representations and computations models learn? 
+How do we formalize desirable properties of interpretable models, and measure the 
+extent to which existing models achieve them? How can we build models that better 
+encode these properties? What can new or existing tools tell us about these 
+systems’ inductive biases?
+
+The goal of this workshop is to bring together researchers focused on interpreting 
+and explaining NLP models by taking inspiration from fields such as machine learning, 
+psychology, linguistics, and neuroscience. We hope the workshop will serve as an 
+interdisciplinary meetup that allows for cross-collaboration.
+
+Topics of interest include, but are not limited to:
+* Applying analysis techniques from neuroscience to analyze
+high-dimensional vector representations in artificial neural networks;
+* Analyzing the network’s response to strategically chosen input in order
+to infer the linguistic generalizations that the network has acquired;
+* Examining network performance on simplified or formal languages;
+* Mechanistic interpretability, reverse engineering approaches to understanding 
+particular properties of neural models;
+* Proposing modifications to neural architectures that increase their
+interpretability;
+* Testing whether interpretable information can be decoded from
+intermediate representations;
+* Explaining specific model predictions made by neural networks;
+* Generating and evaluating the quality of adversarial examples in NLP;
+* Developing open-source tools for analyzing neural networks in NLP;
+* Evaluating the analysis results: how do we know that the analysis is
+valid?
+
+BlackboxNLP 2023 is the sixth BlackboxNLP workshop. The programme and 
+proceedings of the previous editions can be found on the workshop website.
+
+Submissions
+-----------------
+We call for two types of papers:
+1) Archival papers. These are papers reporting on completed, original and
+unpublished research, with a maximum length of 8 pages + references. Papers
+shorter than this maximum are also welcome. Accepted papers are expected to
+be presented at the workshop and will be published in the workshop
+proceedings. They should report on obtained results rather than intended
+work. These papers will undergo double-blind peer-review, and should thus
+be anonymized.
+2) Extended abstracts. These may report on work in progress or may be cross
+submissions that have already appeared in a non-NLP venue. The extended
+abstracts are of maximum 2 pages + references. These submissions are
+non-archival in order to allow submission to another venue. The selection
+will not be based on a double-blind review and thus submissions of this
+type need not be anonymized.
+Submissions should follow the official EMNLP 2023 style guidelines. The
+submission site is:
+https://www.softconf.com/emnlp2023/BlackboxNLP
+
+Contact
+---------------------
+Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
+
+Important dates
+---------------------
+September 1, 2023 – Submission deadline.
+October 6, 2023 – Notification of acceptance.
+October 18, 2023 – Camera-ready papers due.
+December 7, 2023 – Workshop.
+Note: All deadlines are 11:59PM UTC-12:00, 'anywhere on earth'.
