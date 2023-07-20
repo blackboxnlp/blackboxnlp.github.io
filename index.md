@@ -6,7 +6,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP 2023, in Singapor
 
 ## Important dates
 
-- **September 1, 2023** - Paper submission deadline (via Softconf: https://www.softconf.com/emnlp2023/blackboxnlp2023/).
+- **September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).
 - **October 6, 2023** - Notification of acceptance.
 - **October 18, 2023** - Camera ready deadline.
 - **December 7, 2023** - Workshop date.
@@ -33,7 +33,7 @@ The topics of the workshop include, but are not limited to:
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-We will accept submissions through Softconf at: https://www.softconf.com/emnlp2023/blackboxnlp2023/. All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
+We will accept submissions through Softconf at: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/). All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
 
 
 ### Submission Types
