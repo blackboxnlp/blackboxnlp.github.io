@@ -33,7 +33,7 @@ The topics of the workshop include, but are not limited to:
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-We will accept submissions through Softconf at: https://www.softconf.com/emnlp2023/blackboxnlp2023/. All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through Softconf (the submission link will be made available as soon as possible).
+We will accept submissions through Softconf at: https://www.softconf.com/emnlp2023/blackboxnlp2023/. All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
 
 
 ### Submission Types
