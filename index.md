@@ -6,7 +6,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 ## Important dates
 
-- **September 1, 2023** - Paper submission deadline (via Softconf, link TBA).
+- **September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).
 - **October 6, 2023** - Notification of acceptance.
 - **October 18, 2023** - Camera ready deadline.
 - **December 7, 2023** - Workshop date.
@@ -33,7 +33,7 @@ The topics of the workshop include, but are not limited to:
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through Softconf [here](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
+We will accept submissions through Softconf at: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/). All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
 
 
 ### Submission Types
@@ -44,7 +44,7 @@ Accepted submissions for both tracks will be presented at the workshop: most as 
 
 
 ### Dual Submissions and Preprints
-Dual submissions **are** allowed for the archival track. Papers posted to preprint servers such as arXiv can be submitted without any restrictions on when they were posted.
+Dual submissions **are** allowed for the archival track, but please check the dual submissions policy for the other venue that you are dual-submitting to. Papers posted to preprint servers such as arXiv can be submitted without any restrictions on when they were posted.
 
 ### Camera-ready information
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
@@ -62,7 +62,7 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 
 ## Sponsors
 
-TBD
+Google
 
 ## Organizers
 
@@ -90,7 +90,7 @@ Arya McCarthy is a PhD candidate in the Center for Language and Speech Processin
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
 
 ### Hosein Mohebbi
-Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium: Interpreting Deep Learning Models for Text and Sound, addressing research problems on interpreting neural language models. During his Master’s (2019-2021), he focused mainly on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EMNLP and BlackboxNLP.
+Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
 
 
 ## Anti-Harassment Policy

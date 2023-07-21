@@ -61,6 +61,7 @@ https://www.softconf.com/emnlp2023/blackboxnlp2023/
 Contact
 ---------------------
 Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
+You can also find more information on our website, https://blackboxnlp.github.io/.
 
 Important dates
 ---------------------
