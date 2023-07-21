@@ -1,5 +1,5 @@
 # BlackboxNLP 2023
-The sixth edition of BlackboxNLP will be co-located with EMNLP 2023, in Singapore December 6-10.
+The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on December 7 2023.
 
 ## News
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes. 
@@ -38,9 +38,9 @@ We will accept submissions through Softconf at: [https://www.softconf.com/emnlp2
 
 ### Submission Types
 - **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original and unpublished research. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 9th page.
-- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross-submissions of work that has already appeared (or is scheduled to appear) in another venue in 2022-2023. Abstract titles will be posted on the workshop website but will not be included in the proceedings. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
+- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross-submissions of work that has already appeared (or is scheduled to appear) in another venue in 2022-2023. Abstract titles will be posted on the workshop website but will not be included in the proceedings. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. 
 
-Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+Accepted submissions for both tracks will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
 
 ### Dual Submissions and Preprints
@@ -50,7 +50,7 @@ Dual submissions **are** allowed for the archival track, but please check the du
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
 
 ## Contact
-Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
+Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a> for any questions.
 
 ## Previous workshops
 
@@ -77,7 +77,6 @@ His PhD dissertation at MIT analyzed internal language representations in deep l
 He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowship and the Azrieli Early Career Faculty Fellowship.
 He co-organised BlackboxNLP in 2019, 2020, and 2021, as well as the 1st and 2nd machine translation robustness tasks at WMT.
 
-
 ### Najoung Kim
 Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston University. She is currently visting Google Research part-time. She is interested in studying meaning in both human and machine learners, especially ways in which they generalize to novel inputs and ways in which they treat implicit meaning. Her research has been published in various NLP venues including ACL and EMNLP. She was a co-organizer of the Inverse Scaling Competition, and a senior area chair for ACL 2023.
 
@@ -87,10 +86,8 @@ Sophie Hao is a Faculty Fellow at the Center for Data Science at New York Univer
 ### Arya McCarthy
 Arya McCarthy is a PhD candidate in the Center for Language and Speech Processing at the Johns Hopkins University. He is supported by an Amazon Fellowship, a Frederick Jelinek Fellowship, and the International Olympic Committee. He investigates pan-lingual weak supervision for building core NLP tools and datasets in new languages; recent work has investigated limitations of large language models on simple transduction tasks. His research has been published in ACL, EMNLP, CoNLL, COLING, ICLR, and ICASSP.
 
-
 ### Jaap Jumelet
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
-
 
 ### Hosein Mohebbi
 Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
