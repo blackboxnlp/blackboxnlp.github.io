@@ -56,7 +56,7 @@ will not be based on a double-blind review and thus submissions of this
 type need not be anonymized.
 Submissions should follow the official EMNLP 2023 style guidelines. The
 submission site is:
-https://www.softconf.com/emnlp2023/BlackboxNLP
+https://www.softconf.com/emnlp2023/blackboxnlp2023/
 
 Contact
 ---------------------
