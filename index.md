@@ -62,7 +62,8 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 
 ## Sponsors
 
-Google
+* Google
+* Apple
 
 ## Organizers
 
