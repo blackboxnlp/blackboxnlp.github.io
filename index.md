@@ -85,7 +85,7 @@ Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston
 Sophie Hao is a Faculty Fellow at the Center for Data Science at New York University. She recently completed her PhD in Linguistics and Computer Science at Yale University, where her dissertation work focused on applications of feature attribution methods to NLP. More generally, Sophie is interested in theories of interpretation and explanation and how such theories can guide our usage and evaluation of analysis methods for black-box models. She is a frequent contributor to BlackboxNLP, having presented at its first three editions.
 
 ### Arya McCarthy
-Arya McCarthy is a PhD candidate in the Center for Language and Speech Processing at the Johns Hopkins University. He is supported by an Amazon Fellowship, a Frederick Jelinek Fellowship, and the International Olympic Committee. He investigates pan-lingual weak supervision for building core NLP tools and datasets in new languages; recent work has investigated limitations of large language models on simple transduction tasks. His research has been published in ACL, EMNLP, CoNLL, COLING, ICLR, and ICASSP.
+Arya McCarthy is a Research Scientist at [Scaled Cognition][sc]. He previously was a Ph.D. student in the Center for Language and Speech Processing at the Johns Hopkins University. He is supported by an Amazon Fellowship, a Frederick Jelinek Fellowship, and the International Olympic Committee. He investigates pan-lingual weak supervision for building core NLP tools and datasets in new languages; recent work has investigated limitations of large language models on simple transduction tasks. His research has been published in ACL, EMNLP, CoNLL, COLING, ICLR, and ICASSP.
 
 ### Jaap Jumelet
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
@@ -96,3 +96,6 @@ Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Art
 
 ## Anti-Harassment Policy
 BlackboxNLP 2023 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+
+
+[sc]: https://scaledcognition.com
