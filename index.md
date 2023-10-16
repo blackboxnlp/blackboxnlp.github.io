@@ -6,8 +6,8 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 ## Important dates
 
-- **September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).
-- **October 6, 2023** - Notification of acceptance.
+- ~~**September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).~~
+- ~~**October 6, 2023** - Notification of acceptance.~~
 - **October 18, 2023** - Camera ready deadline.
 - **December 7, 2023** - Workshop date.
 
