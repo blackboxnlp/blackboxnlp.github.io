@@ -10,14 +10,14 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 <p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
 
 > Causal NLP: A Path towards Opening the Black Box of NLP
-> 
+
 Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
 ### Asli Celikyilmaz
 <p><img src="img/Asli.png" width="150px" height="150px"></p>
 
 > Charting New Pathways: Next-Gen LLM Reasoners
-> 
+
 Asli Celikyilmaz is a Research Science Manager at Fundamentals AI Research (FAIR) at Meta. She is also an Affiliate Associate Member at the University of Washington. She has received Ph.D. Degree in Systems Engineering from University of Toronto, Canada, and later continued her Postdoc study at Computer Science Department of the University of California, Berkeley. Her research interests are mainly in language generation with long-term coherence, LLM reasoning and alignment, language grounding with vision, and building intelligent agents for human-computer interaction.
 
 
