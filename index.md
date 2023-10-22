@@ -6,7 +6,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes. 
 
 ## Invited Speakers
-<p><img src="img/Zhijing.jpg" width="250px" align="right"></p>
+<p><img src="img/Zhijing.jpg" width="200px" height="200px" align="right"></p>
 
 ### Zhijing Jin
 > Causal NLP: A Path towards Opening the Black Box of NLP
@@ -14,7 +14,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
 
-<p><img src="img/Asli.png" width="250px" align="right"></p>
+<p><img src="img/Asli.png" width="200px" height="200px" align="right"></p>
 
 ### Asli Celikyilmaz
 > Charting New Pathways: Next-Gen LLM Reasoners
