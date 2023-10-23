@@ -2,7 +2,7 @@
 The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on December 7 2023.
 
 ## News
-- We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, 12:00 AoE.
+- We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes. 
 
 ## Invited Speakers
