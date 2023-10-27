@@ -26,7 +26,7 @@ Asli Celikyilmaz is a Research Science Manager at Fundamentals AI Research (FAIR
 
 - ~~**September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).~~
 - ~~**October 6, 2023** - Notification of acceptance.~~
-- **October 18, 2023** - Camera ready deadline.
+- ~~**October 18, 2023** - Camera ready deadline.~~
 - **December 7, 2023** - Workshop date.
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
