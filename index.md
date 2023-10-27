@@ -14,7 +14,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
 ### Asli Celikyilmaz
-<p><img src="img/Asli.png" width="150px" height="150px"></p>
+<p><img src="img/Asli.png" width="150px"></p>
 
 > Charting New Pathways: Next-Gen LLM Reasoners
 
