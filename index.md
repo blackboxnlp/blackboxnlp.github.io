@@ -3,23 +3,24 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 ## News
 - We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
-- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes.
 - Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp)
+- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes.
+
 
 ## Invited Speakers
-### Zhijing Jin
-<p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
-
-> Causal NLP: A Path towards Opening the Black Box of NLP
-
-Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
-
 ### Asli Celikyilmaz
 <p><img src="img/Asli.png" width="150px"></p>
 
 > Charting New Pathways: Next-Gen LLM Reasoners
 
 Asli Celikyilmaz is a Research Science Manager at Fundamentals AI Research (FAIR) at Meta. She is also an Affiliate Associate Member at the University of Washington. She has received Ph.D. Degree in Systems Engineering from University of Toronto, Canada, and later continued her Postdoc study at Computer Science Department of the University of California, Berkeley. Her research interests are mainly in language generation with long-term coherence, LLM reasoning and alignment, language grounding with vision, and building intelligent agents for human-computer interaction.
+
+### Zhijing Jin
+<p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
+
+> Causal NLP: A Path towards Opening the Black Box of NLP
+
+Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
 
 ## Important dates
