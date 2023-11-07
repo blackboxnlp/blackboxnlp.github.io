@@ -8,13 +8,6 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 
 ## Invited Speakers
-### Antoine Bosselut
-<p><img src="img/Antoine.jpg" width="150px" height="150px></p>
-
-> From Mechanistic Interpretability to Mechanistic Reasoning
-
-Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning.
-
 ### Zhijing Jin
 <p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
 
@@ -22,6 +15,12 @@ Antoine Bosselut is an assistant professor in the School of Computer and Communi
 
 Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
+### Antoine Bosselut
+<p><img src="img/Antoine.jpg" width="150px" height="150p"x></p>
+
+> From Mechanistic Interpretability to Mechanistic Reasoning
+
+Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning.
 
 ## Panel Discussion on "Mechanistic Interpretability"
 Panelists: 
