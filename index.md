@@ -16,7 +16,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
 
 ### Antoine Bosselut
-<p><img src="img/Antoine.jpg" width="150px" height="150p"x></p>
+<p><img src="img/Antoine.jpg" width="150px" height="150px"></p>
 
 > From Mechanistic Interpretability to Mechanistic Reasoning
 
