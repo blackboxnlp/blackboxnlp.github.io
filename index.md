@@ -24,10 +24,10 @@ Antoine Bosselut is an assistant professor in the School of Computer and Communi
 
 ## Panel Discussion on "Mechanistic Interpretability"
 Panelists: 
-- Neel Nanda, DeepMind
 - John Hewitt, Stanford
 - Antoine Bosselut, EPFL
 - Zhijing Jin, Max Planck Institute & ETH
+- Neel Nanda, DeepMind
 - Yonatan Belinkov, Technion
 
 ## Important dates
