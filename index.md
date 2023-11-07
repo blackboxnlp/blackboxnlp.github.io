@@ -8,12 +8,12 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 
 ## Invited Speakers
-### Asli Celikyilmaz
-<p><img src="img/Asli.png" width="150px"></p>
+### Antoine Bosselut
+<p><img src="img/Antoine.jpg" width="150px"></p>
 
-> Charting New Pathways: Next-Gen LLM Reasoners
+> From Mechanistic Interpretability to Mechanistic Reasoning
 
-Asli Celikyilmaz is a Research Science Manager at Fundamentals AI Research (FAIR) at Meta. She is also an Affiliate Associate Member at the University of Washington. She has received Ph.D. Degree in Systems Engineering from University of Toronto, Canada, and later continued her Postdoc study at Computer Science Department of the University of California, Berkeley. Her research interests are mainly in language generation with long-term coherence, LLM reasoning and alignment, language grounding with vision, and building intelligent agents for human-computer interaction.
+Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning.
 
 ### Zhijing Jin
 <p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
