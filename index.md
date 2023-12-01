@@ -7,6 +7,31 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes.
 
 
+## Schedule
+9:00 - 9:10 Opening remarks
+
+9:10 - 10:00 Invited talk 1 (Zhijing Jin)
+
+10:00 - 10:30 Session 1 - 2 oral presentations
+
+10:30 - 11:00 Break
+
+11:00 - 12:30 Session 2 - In-person & virtual **poster** sessions
+
+12:30 - 14:00 Lunch
+
+14:00 - 15:30 Session 3 - 6 oral presentations
+
+15:30 - 16:00 Break
+
+16:00 - 16:50 Invited talk 2 (Antoine Bosselut)
+
+16:50 - 17:00 Closing remarks and awards
+
+17:00 - 18:00 Panel discussion
+
+
+
 ## Invited Speakers
 ### Zhijing Jin
 <p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
