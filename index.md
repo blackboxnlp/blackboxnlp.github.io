@@ -8,27 +8,39 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 
 ## Schedule
-9:00 - 9:10 Opening remarks
+` 9:00 -  9:10` Opening remarks
 
-9:10 - 10:00 Invited talk 1 (Zhijing Jin)
+` 9:10 - 10:00` Invited talk by **Zhijing Jin**
 
-10:00 - 10:30 Session 1 - 2 oral presentations
+`10:00 - 10:30` 2 oral presentations:
+1. Systematic Generalization by Finetuning? Analyzing Pretrained Language Models Using Constituency Tests<br>_Aishik Chakraborty, Jackie CK Cheung and Timothy J. O'Donnell_
+2. Emergent Linear Representations in World Models of Self-Supervised Sequence Models<br>_Neel Nanda, Andrew Lee and Martin Wattenberg_
 
-10:30 - 11:00 Break
+`10:30 - 11:00` Break ☕
 
-11:00 - 12:30 Session 2 - In-person & virtual **poster** sessions
+`11:00 - 12:30` In-person & virtual **poster** sessions - _East Foyer located on B2 of the Resorts World Sentosa Convention Center_ and on [gather.town](https://gather.town/).
 
-12:30 - 14:00 Lunch
+`12:30 - 14:00` Lunch 🥪
 
-14:00 - 15:30 Session 3 - 6 oral presentations
+`14:00 - 15:30` 6 oral presentations:
+1. Knowledge-grounded Natural Language Recommendation Explanation<br>_Anthony Colas, Jun Araki, Zhengyu Zhou, Bingqing Wang and Zhe Feng_
+2. On Quick Kisses and How to Make Them Count: A Study on Event Construal in Light Verb Constructions with BERT<br>_Chenxin Liu and Emmanuele Chersoni_
+3. Rigorously Assessing Natural Language Explanations of Neurons<br>_Jing Huang, Atticus Geiger, Karel D'Oosterlinck, Zhengxuan Wu and Christopher Potts_
+4. Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models<br>_Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard and Ian Foster_
+5. NPIs Aren't Exactly Easy: Variation in Licensing across Large Language Models<br>_Deanna DeCarlo, William Palmer, Michael Wilson and Bob Frank_
+6. Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model<br>_Abhijith Chintam, Rahel Beloch, Willem Zuidema, Michael Hanna and Oskar van der Wal_
 
-15:30 - 16:00 Break
+`15:30 - 16:00` Break ☕
 
-16:00 - 16:50 Invited talk 2 (Antoine Bosselut)
+`16:00 - 16:50` Invited talk by **Antoine Bosselut**
 
-16:50 - 17:00 Closing remarks and awards
+`16:50 - 17:00` Closing remarks and awards
 
-17:00 - 18:00 Panel discussion
+`17:00 - 18:00` Panel discussion on **Mechanistic Intepretability** with:
+- Neel Nanda
+- John Hewitt
+- Antoine Bosselut
+- Zhijing Jin
 
 
 
