@@ -36,7 +36,7 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 `16:50 - 17:00` Closing remarks and awards
 
-`17:00 - 18:00` Panel discussion on **Mechanistic Intepretability** with:
+`17:00 - 18:00` Panel discussion on **Mechanistic Interpretability** with:
 - Neel Nanda
 - John Hewitt
 - Antoine Bosselut
