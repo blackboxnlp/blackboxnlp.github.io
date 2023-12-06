@@ -46,18 +46,21 @@ The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on 
 
 ## Invited Speakers
 ### Zhijing Jin
-<p><img src="img/Zhijing.jpg" width="150px" height="150px"></p>
+<p><img src="img/Zhijing.png" width="150px" height="140px"></p>
 
-> Causal NLP: A Path towards Opening the Black Box of NLP
+_Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems._
 
-Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems.
+**Causal NLP: A Path towards Opening the Black Box of NLP**<br>
+> Recent advancements in large language models (LLMs) have demonstrated impressive performance in many tasks. However, the opaque nature of these NLP models often obscures the reasons behind their successes and unexpected failures. To interpret LLMs, early studies have identified correlations between embeddings and linguistic properties. In this talk, I will provide an overview of how causal analysis is being utilized in interpretability research for LLMs, highlighting its unique contributions to the field, as well as the open challenges. I will introduce the role of causality in two branches of interpretability: for behavioral studies of LLMs, I propose a causal framework that reformulates the robustness problem as a difference in the causal decision-making processes of humans versus those of the model; to understand the inner workings of LLMs, I will discuss how causal intervention and causal mediation analysis aid in unraveling the mechanisms of reasoning in LLMs, and how different mechanisms interact. I believe Causal NLP opens a unique pathway towards paving the way for more transparent, reliable, and responsible AI systems.
+
 
 ### Antoine Bosselut
 <p><img src="img/Antoine.jpg" width="150px" height="150px"></p>
 
-> From Mechanistic Interpretability to Mechanistic Reasoning
+_Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning._
 
-Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning.
+**From Mechanistic Interpretability to Mechanistic Reasoning**
+> Pretrained language models (LMs) encode implicit representations of knowledge in their parameters. Despite this observation, our best methods for interpreting these representations yield few actionable insights on how to manipulate this parameter space for downstream benefit. In this talk, I will present work on methods that simulate machine reasoning by localizing and modifying parametric knowledge representations. First, I will present a method for discovering knowledge-critical subnetworks within pretrained language models, and show that these sparse computational subgraphs are responsible for the model’s ability to encode specific pieces of knowledge. Then, I will present a new reasoning algorithm, RECKONING, a bi-level optimisation procedure that dynamically encodes and reasons over new knowledge at test-time using the model’s existing learned knowledge representations as a scratchpad. Finally, I will discuss next steps and challenges in using internal model mechanisms for reasoning.
 
 ## Panel Discussion on "Mechanistic Interpretability"
 Panelists: 
@@ -65,7 +68,6 @@ Panelists:
 - Zhijing Jin, Max Planck Institute & ETH
 - Antoine Bosselut, EPFL
 - Neel Nanda, DeepMind
-- Yonatan Belinkov, Technion
 
 ## Important dates
 
