@@ -1,80 +1,20 @@
-# BlackboxNLP 2023
-The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on December 7 2023.
+# BlackboxNLP 2024
+The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15 or 16 2024.
 
 ## News
+<!---
 - We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
+-->
 - Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp)
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes.
 
 
-## Schedule
-`9:00 -  9:10` Opening remarks
-
-`9:10 - 10:00` Invited talk by **Zhijing Jin**
-
-`10:00 - 10:30` 2 oral presentations:
-1. Systematic Generalization by Finetuning? Analyzing Pretrained Language Models Using Constituency Tests<br>_Aishik Chakraborty, Jackie CK Cheung and Timothy J. O'Donnell_
-2. Emergent Linear Representations in World Models of Self-Supervised Sequence Models<br>_Neel Nanda, Andrew Lee and Martin Wattenberg_
-
-`10:30 - 11:00` Break ☕
-
-`11:00 - 12:30` In-person & virtual **poster** sessions - _East Foyer located on B2 of the Resorts World Sentosa Convention Center_ and on [gather.town](https://gather.town/).
-
-`12:30 - 14:00` Lunch 🥪
-
-`14:00 - 15:30` 6 oral presentations:
-1. Knowledge-grounded Natural Language Recommendation Explanation<br>_Anthony Colas, Jun Araki, Zhengyu Zhou, Bingqing Wang and Zhe Feng_
-2. On Quick Kisses and How to Make Them Count: A Study on Event Construal in Light Verb Constructions with BERT<br>_Chenxin Liu and Emmanuele Chersoni_
-3. Rigorously Assessing Natural Language Explanations of Neurons<br>_Jing Huang, Atticus Geiger, Karel D'Oosterlinck, Zhengxuan Wu and Christopher Potts_
-4. Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models<br>_Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard and Ian Foster_
-5. NPIs Aren't Exactly Easy: Variation in Licensing across Large Language Models<br>_Deanna DeCarlo, William Palmer, Michael Wilson and Bob Frank_
-6. Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model<br>_Abhijith Chintam, Rahel Beloch, Willem Zuidema, Michael Hanna and Oskar van der Wal_
-
-`15:30 - 16:00` Break ☕
-
-`16:00 - 16:50` Invited talk by **Antoine Bosselut**
-
-`16:50 - 17:00` Closing remarks and awards
-
-`17:00 - 18:00` Panel discussion on **Mechanistic Interpretability** with:
-- Neel Nanda
-- John Hewitt
-- Antoine Bosselut
-- Zhijing Jin
-
-
-
-## Invited Speakers
-### Zhijing Jin
-<p><img src="img/Zhijing.png" width="150px" height="140px"></p>
-
-_Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems._
-
-**Causal NLP: A Path towards Opening the Black Box of NLP**<br>
-> Recent advancements in large language models (LLMs) have demonstrated impressive performance in many tasks. However, the opaque nature of these NLP models often obscures the reasons behind their successes and unexpected failures. To interpret LLMs, early studies have identified correlations between embeddings and linguistic properties. In this talk, I will provide an overview of how causal analysis is being utilized in interpretability research for LLMs, highlighting its unique contributions to the field, as well as the open challenges. I will introduce the role of causality in two branches of interpretability: for behavioral studies of LLMs, I propose a causal framework that reformulates the robustness problem as a difference in the causal decision-making processes of humans versus those of the model; to understand the inner workings of LLMs, I will discuss how causal intervention and causal mediation analysis aid in unraveling the mechanisms of reasoning in LLMs, and how different mechanisms interact. I believe Causal NLP opens a unique pathway towards paving the way for more transparent, reliable, and responsible AI systems.
-
-
-### Antoine Bosselut
-<p><img src="img/Antoine.jpg" width="150px" height="150px"></p>
-
-_Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning._
-
-**From Mechanistic Interpretability to Mechanistic Reasoning**
-> Pretrained language models (LMs) encode implicit representations of knowledge in their parameters. Despite this observation, our best methods for interpreting these representations yield few actionable insights on how to manipulate this parameter space for downstream benefit. In this talk, I will present work on methods that simulate machine reasoning by localizing and modifying parametric knowledge representations. First, I will present a method for discovering knowledge-critical subnetworks within pretrained language models, and show that these sparse computational subgraphs are responsible for the model’s ability to encode specific pieces of knowledge. Then, I will present a new reasoning algorithm, RECKONING, a bi-level optimisation procedure that dynamically encodes and reasons over new knowledge at test-time using the model’s existing learned knowledge representations as a scratchpad. Finally, I will discuss next steps and challenges in using internal model mechanisms for reasoning.
-
-## Panel Discussion on "Mechanistic Interpretability"
-Panelists: 
-- John Hewitt, Stanford
-- Zhijing Jin, Max Planck Institute & ETH
-- Antoine Bosselut, EPFL
-- Neel Nanda, DeepMind
-
 ## Important dates
 
-- ~~**September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).~~
-- ~~**October 6, 2023** - Notification of acceptance.~~
-- ~~**October 18, 2023** - Camera ready deadline.~~
-- **December 7, 2023** - Workshop date.
+- **August 15, 2024** - Paper submission deadline (via OpenReview, link TBA).
+- **September 20, 2024** - Notification of acceptance.
+- **October 4, 2024** - Camera ready deadline.
+- **November 15 or 16, 2024** - Workshop date.
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -98,7 +38,7 @@ The topics of the workshop include, but are not limited to:
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-We will accept submissions through Softconf at: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/). All submissions should use the EMNLP 2023 [template](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
+We will accept submissions through OpenReview (submission link TBA). All submissions should use the ACL [template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through [Softconf](https://www.softconf.com/emnlp2023/blackboxnlp2023/).
 
 
 ### Submission Types
@@ -110,6 +50,7 @@ Accepted submissions for both tracks will be presented at the workshop: most as 
 
 ### Dual Submissions and Preprints
 Dual submissions **are** allowed for the archival track, but please check the dual submissions policy for the other venue that you are dual-submitting to. Papers posted to preprint servers such as arXiv can be submitted without any restrictions on when they were posted.
+
 
 ### Camera-ready information
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
@@ -124,11 +65,8 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 - [BlackboxNLP 2020](https://blackboxnlp.github.io/2020/) (at EMNLP 2020)
 - [BlackboxNLP 2021](https://blackboxnlp.github.io/2021/) (at EMNLP 2021)
 - [BlackboxNLP 2022](https://blackboxnlp.github.io/2022/) (at EMNLP 2022)
+- [BlackboxNLP 2023](https://blackboxnlp.github.io/2022/) (at EMNLP 2023)
 
-## Sponsors
-
-* Google
-* Apple
 
 ## Organizers
 
@@ -146,21 +84,18 @@ He co-organised BlackboxNLP in 2019, 2020, and 2021, as well as the 1st and 2nd 
 ### Najoung Kim
 Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston University. She is currently visting Google Research part-time. She is interested in studying meaning in both human and machine learners, especially ways in which they generalize to novel inputs and ways in which they treat implicit meaning. Her research has been published in various NLP venues including ACL and EMNLP. She was a co-organizer of the Inverse Scaling Competition, and a senior area chair for ACL 2023.
 
-### Sophie Hao
-Sophie Hao is a Faculty Fellow at the Center for Data Science at New York University. She recently completed her PhD in Linguistics and Computer Science at Yale University, where her dissertation work focused on applications of feature attribution methods to NLP. More generally, Sophie is interested in theories of interpretation and explanation and how such theories can guide our usage and evaluation of analysis methods for black-box models. She is a frequent contributor to BlackboxNLP, having presented at its first three editions.
-
-### Arya McCarthy
-Arya McCarthy is a Research Scientist at [Scaled Cognition][sc]. He previously was a Ph.D. student in the Center for Language and Speech Processing at the Johns Hopkins University. He is supported by an Amazon Fellowship, a Frederick Jelinek Fellowship, and the International Olympic Committee. He investigates pan-lingual weak supervision for building core NLP tools and datasets in new languages; recent work has investigated limitations of large language models on simple transduction tasks. His research has been published in ACL, EMNLP, CoNLL, COLING, ICLR, and ICASSP.
-
 ### Jaap Jumelet
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
 
 ### Hosein Mohebbi
 Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
 
+### Aaron Mueller
+Aaron Mueller is a postdoctoral fellow at Northeastern University and the Technion. He recently obtained his PhD from Johns Hopkins University in 2023. His work takes inspiration from psycholinguistics and causal interpretability to evaluate and improve the robustness and mechanistic reasoning of NLP systems. His work has been published at leading NLP venues including ACL, EMNLP, and NAACL. He has received the Zuckerman postdoctoral fellowship, and coverage in the New York Times as a co-organizer of the BabyLM Challenge.
+
+### Hanjie Chen
+Hanjie Chen is an incoming Assistant Professor in the Department of Computer Science at Rice University. She currently works as a Postdoctoral Fellow in the Center for Language and Speech Processing at Johns Hopkins University. She obtained her Ph.D. in Computer Science in May 2023 at the University of Virginia. Hanjie is broadly interested in Trustworthy AI, Natural Language Processing, and Interpretable Machine Learning. Specifically, her research focuses on the interpretability and analysis of neural language models. She has published papers at leading AI/NLP venues, including ACL, AAAI, EMNLP, and NAACL. She has been honored with the Outstanding Doctoral Student Award, John A. Stankovic Graduate Research Award, Carlos and Esther Farrar Fellowship, and Graduate Teaching Awards at UVA. She also won the Best Poster Award at the ACM Capital Region Celebration of Women in Computing.
 
 ## Anti-Harassment Policy
-BlackboxNLP 2023 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+BlackboxNLP 2024 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
 
-
-[sc]: https://scaledcognition.com
