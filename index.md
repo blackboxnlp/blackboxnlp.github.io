@@ -27,12 +27,15 @@ The goal of this workshop is to bring together researchers focused on interpreti
 The topics of the workshop include, but are not limited to:
 - Explanation methods such as saliency, attribution, free-text explanations, or explanations with structured properties.
 - Mechanistic interpretability, reverse engineering approaches to understanding particular properties of neural models.
+- Scaling up analysis methods for large language models (LLMs)
 - Probing methods for testing whether models have acquired or represent certain linguistic properties.
-- Applying analysis techniques from other disciplines (e.g., neuroscience or computer vision).
+- Analysing context mixing (e.g., token-to-token interactions) in deep learning architectures
+- Adapting and applying analysis techniques from other disciplines (e.g., neuroscience or computer vision).
 - Examining model performance on simplified or formal languages.
 - Proposing modifications to neural architectures that increase their interpretability.
-- Open-source tools for analysis, visualization, or explanation.
+- Open-source tools for analysis, visualization, or explanation to democratize access to interpretability techniques in NLP.
 - Evaluation of explanation methods: how do we know the explanation is faithful to the model?
+- Generalisation, memorisation, and data contamination problem in LLMs 
 - Opinion pieces about the state of explainable NLP.
 
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
@@ -65,7 +68,7 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 - [BlackboxNLP 2020](https://blackboxnlp.github.io/2020/) (at EMNLP 2020)
 - [BlackboxNLP 2021](https://blackboxnlp.github.io/2021/) (at EMNLP 2021)
 - [BlackboxNLP 2022](https://blackboxnlp.github.io/2022/) (at EMNLP 2022)
-- [BlackboxNLP 2023](https://blackboxnlp.github.io/2022/) (at EMNLP 2023)
+- [BlackboxNLP 2023](https://blackboxnlp.github.io/2023/) (at EMNLP 2023)
 
 
 ## Organizers
@@ -88,7 +91,7 @@ Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
 
 ### Hosein Mohebbi
-Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
+Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University, Netherlands. He is part of the InDeep consortium project, doing research on the interpretability of deep neural models for text and speech. His research has been published in leading NLP venues such as ACL, EACL, and EMNLP, where he also regularly serves as a reviewer. 
 
 ### Aaron Mueller
 Aaron Mueller is a postdoctoral fellow at Northeastern University and the Technion. He recently obtained his PhD from Johns Hopkins University in 2023. His work takes inspiration from psycholinguistics and causal interpretability to evaluate and improve the robustness and mechanistic reasoning of NLP systems. His work has been published at leading NLP venues including ACL, EMNLP, and NAACL. He has received the Zuckerman postdoctoral fellowship, and coverage in the New York Times as a co-organizer of the BabyLM Challenge.
