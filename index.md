@@ -35,7 +35,7 @@ The topics of the workshop include, but are not limited to:
 - Proposing modifications to neural architectures that increase their interpretability.
 - Open-source tools for analysis, visualization, or explanation to democratize access to interpretability techniques in NLP.
 - Evaluation of explanation methods: how do we know the explanation is faithful to the model?
-- Generalisation, memorisation, and data contamination problem in LLMs 
+- Understanding under the hood of memorization in LLMs
 - Opinion pieces about the state of explainable NLP.
 
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
@@ -91,7 +91,7 @@ Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston
 Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
 
 ### Hosein Mohebbi
-Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University, Netherlands. He is part of the InDeep consortium project, doing research on the interpretability of deep neural models for text and speech. His research has been published in leading NLP venues such as ACL, EACL, and EMNLP, where he also regularly serves as a reviewer. 
+Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University, Netherlands. He is part of the InDeep consortium project, doing research on the interpretability of deep neural models for text and speech. His research has been published in leading NLP venues such as ACL, EACL, and EMNLP, where he also regularly serves as a reviewer. He received an Outstanding Paper Award at EMNLP 2023. His contribution to the CL community extends to co-organizing the previous edition of BlackboxNLP and offering a tutorial at EACL 2024 conference.
 
 ### Aaron Mueller
 Aaron Mueller is a postdoctoral fellow at Northeastern University and the Technion. He recently obtained his PhD from Johns Hopkins University in 2023. His work takes inspiration from psycholinguistics and causal interpretability to evaluate and improve the robustness and mechanistic reasoning of NLP systems. His work has been published at leading NLP venues including ACL, EMNLP, and NAACL. He has received the Zuckerman postdoctoral fellowship, and coverage in the New York Times as a co-organizer of the BabyLM Challenge.
