@@ -5,17 +5,14 @@ Website: https://blackboxnlp.github.io
 
 Workshop description
 -----------------------------
-Many recent performance improvements in NLP have come at the cost of understanding 
-of the systems. How do we assess what representations and computations models learn? 
-How do we formalize desirable properties of interpretable models, and measure the 
-extent to which existing models achieve them? How can we build models that better 
-encode these properties? What can new or existing tools tell us about these 
-systems’ inductive biases?
+Many recent performance improvements in NLP have come at the cost of understanding of the systems. 
+How do we assess what representations and computations models learn? 
+How do we formalize desirable properties of interpretable models, and measure the extent to which existing models achieve them? 
+How can we build models that better encode these properties? 
+What can new or existing tools tell us about these systems’ inductive biases?
 
-The goal of this workshop is to bring together researchers focused on interpreting 
-and explaining NLP models by taking inspiration from fields such as machine learning, 
-psychology, linguistics, and neuroscience. We hope the workshop will serve as an 
-interdisciplinary meetup that allows for cross-collaboration.
+The goal of this workshop is to bring together researchers focused on interpreting and explaining NLP models by taking inspiration from fields such as machine learning, psychology, linguistics, and neuroscience. 
+We hope the workshop will serve as an interdisciplinary meetup that allows for cross-collaboration.
 
 Topics of interest include, but are not limited to:
 * Applying analysis techniques from neuroscience to analyze high-dimensional vector representations in artificial neural networks;
@@ -29,8 +26,7 @@ Topics of interest include, but are not limited to:
 * Developing open-source tools for analyzing neural networks in NLP;
 * Evaluating the analysis results: how do we know that the analysis is valid?
 
-BlackboxNLP 2024 is the seventh BlackboxNLP workshop. The programme and 
-proceedings of the previous editions can be found on the workshop website.
+BlackboxNLP 2024 is the seventh BlackboxNLP workshop. The programme and proceedings of the previous editions can be found on the workshop website.
 
 Submissions
 -----------------

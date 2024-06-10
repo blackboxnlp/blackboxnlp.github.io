@@ -11,7 +11,7 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 
 ## Important dates
 
-- **August 15, 2024** - Paper submission deadline (via OpenReview, link TBA).
+- **August 15, 2024** - Paper submission deadline (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
 - **September 20, 2024** - Notification of acceptance.
 - **October 4, 2024** - Camera ready deadline.
 - **November 15 or 16, 2024** - Workshop date.
@@ -41,7 +41,7 @@ The topics of the workshop include, but are not limited to:
 Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-We will accept submissions through OpenReview (submission link TBA). All submissions should use the ACL [template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through OpenReview.
+We will accept submissions through OpenReview (submission link TBA). All submissions should use the ACL [template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj) and formatting requirements specified by [ACL](https://acl-org.github.io/ACLPUB/formatting.html). Archival paper must be fully anonymized. Submissions of both types can be made through OpenReview ([submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
 
 
 ### Submission Types
