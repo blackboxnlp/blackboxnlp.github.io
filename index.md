@@ -73,6 +73,10 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 - [BlackboxNLP 2023](https://blackboxnlp.github.io/2023/) (at EMNLP 2023)
 
 
+## Sponsors
+- Google
+
+
 ## Organizers
 
 You can reach the organizers by e-mail to <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a>.
