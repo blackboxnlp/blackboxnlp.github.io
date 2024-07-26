@@ -1,5 +1,5 @@
 # BlackboxNLP 2024
-The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15 or 16 2024.
+The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15, 2024.
 
 ## News
 <!---
@@ -14,7 +14,7 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 - **August 15, 2024** - Paper submission deadline (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
 - **September 20, 2024** - Notification of acceptance.
 - **October 4, 2024** - Camera ready deadline.
-- **November 15 or 16, 2024** - Workshop date.
+- **November 15, 2024** - Workshop date.
 
 *All deadlines are 11:59PM UTC-12:00 ("Anywhere on Earth"). We will accept ARR submissions; corresponding deadlines will be announced at a later moment in time.*
 
