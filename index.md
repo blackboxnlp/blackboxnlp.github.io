@@ -45,11 +45,11 @@ We will accept submissions through OpenReview (submission link TBA). All submiss
 
 
 ### Submission Types
-- **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original and unpublished research. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 9th page.
-- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross-submissions of work that has already appeared (or is scheduled to appear) in another venue in 2022-2023. Abstract titles will be posted on the workshop website but will not be included in the proceedings. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. 
+- **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original, and unpublished research. Papers shorter than this maximum are also welcome. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized.
+- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross-submissions that have already appeared (or are scheduled to appear) in another venue in 2024-2025. These submissions are non-archival and will not be included in the proceedings. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. 
 
-We do not have a dedicated short paper track or a minimum page requirement. Authors may submit short papers to the archival track, noting that they will be evaluated like all other full papers.
 
+Submissions should follow the official EMNLP 2024 style guidelines.
 Accepted submissions for both tracks will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
 
