@@ -2,6 +2,7 @@
 The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15, 2024.
 
 ## News
+- We accept ARR submissions! Please see the correspondence deadline and submission link below.
 <!---
 - We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
 -->
@@ -11,12 +12,13 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 
 ## Important dates
 
-- **August 15, 2024** - Paper submission deadline (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
+- **August 15, 2024** - Direct paper submission deadline (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
+- **September 8, 2024** - Commitment deadline for ARR papers (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP_ARR_Commitment)).
 - **September 20, 2024** - Notification of acceptance.
 - **October 4, 2024** - Camera ready deadline.
 - **November 15, 2024** - Workshop date.
 
-*All deadlines are 11:59PM UTC-12:00 ("Anywhere on Earth"). We will accept ARR submissions; corresponding deadlines will be announced at a later moment in time.*
+*All deadlines are 11:59PM UTC-12:00 ("Anywhere on Earth").*
 
 ## Workshop description
 
