@@ -78,9 +78,6 @@ Amit Ben Artzy, Roy Schwartz
 - **Can We Statically Locate Knowledge in Large Language Models? Financial Domain and Toxicity Reduction Case Studies**\
 Jordi Armengol-Estapé, Lingyu Li, Sebastian Gehrmann, Achintya Gopal, David S Rosenberg, Gideon S. Mann, Mark Dredze
 
-- **Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**\
-Jirui Qi, Gabriele Sarti, Raquel Fernández, Arianna Bisazza
-
 - **MultiContrievers: Analysis of Dense Retrieval Representations**\
 Seraphina Goldfarb-Tarrant, Pedro Rodriguez, Jane Dwivedi-Yu, Patrick Lewis
 
