@@ -2,6 +2,7 @@
 The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15, 2024.
 
 ## News
+- A list of all accepted papers for BlackboxNLP 2024 can be found [https://blackboxnlp.github.io/papers](here).
 - Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp).
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. 
 
