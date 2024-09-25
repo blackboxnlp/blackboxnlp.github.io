@@ -69,9 +69,6 @@ Supriya Manna, Niladri Sett
 - **Enhancing Question Answering on Charts Through Effective Pre-training Tasks**\
 Ashim Gupta, Vivek Gupta, Shuo Zhang, Yujie He, Ning Zhang, Shalin Shah
 
-- **Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity**\
-Rheeya Uppaal, Apratim Dey, Yiting He, Yiqiao Zhong, Junjie Hu
-
 - **Attend First, Consolidate Later: On the Importance of Attention in Different LLM Layers**\
 Amit Ben Artzy, Roy Schwartz
 
