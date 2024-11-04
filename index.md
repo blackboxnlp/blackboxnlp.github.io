@@ -40,13 +40,17 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 - Asma Ghandeharioun
 - Marius Mosbach
 - Jack Merullo
-- Himabindu Lakkaraju
 
 
 
 ## Invited Speakers
-- **Jack Merullo**, Brown University
-- **Himabindu Lakkaraju**, Harvard University
+#### Jack Merullo
+- A PhD student at Brown University
+- Title: **Simple Mechanisms Underlying Complex Behaviors in Language Models**
+
+#### Himabindu Lakkaraju
+- An Assistant Professor at Harvard University
+- Title: **Mechanics and Ethics of Search Engine Optimization and Explainability in the Era of LLMs**
 
 ## Panel Discussion on "Interpretability"
 Panelists: 
@@ -55,7 +59,6 @@ Panelists:
 - Asma Ghandeharioun, Google DeepMind
 - Marius Mosbach, McGill University
 - Jack Merullo, Brown University
-- Himabindu Lakkaraju, Harvard University
 
   
 ## Important dates
