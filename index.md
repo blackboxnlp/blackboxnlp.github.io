@@ -24,7 +24,7 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 
 `14:00 - 15:00` Invited talk by **Himabindu Lakkaraju**
 
-`15:00 - 15:30 **oral** presentations:
+`15:00 - 15:30` **oral** presentations:
 1. Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2<br>_Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, Janos Kramar, Anca Dragan, Rohin Shah, and Neel Nanda_
 2. Mechanistic?<br>_Naomi Saphra and Sarah Wiegreffe_
 
