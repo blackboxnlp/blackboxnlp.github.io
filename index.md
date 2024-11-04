@@ -2,12 +2,62 @@
 The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on November 15, 2024.
 
 ## News
-- We welcome Findings papers for presentation at BlackboxNLP! Please register your paper [here](https://forms.gle/Cqehe1U5gYrv7Xuw7).
+<!--- We welcome Findings papers for presentation at BlackboxNLP! Please register your paper [here](https://forms.gle/Cqehe1U5gYrv7Xuw7).-->
 - A list of all accepted papers for BlackboxNLP 2024 can be found [here](https://blackboxnlp.github.io/papers).
 - Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp).
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. 
 
+## Programme
+`9:00 -  9:10` Opening remarks
 
+`9:10 - 10:00` Invited talk by **Jack Merullo**
+
+`10:00 - 10:30` **oral** presentations:
+1. Routing in Sparsely-gated Language Models responds to Context<br>_Stefan Arnold, Marian Fietta, and Dilara Yesilbas_
+2. Log Probabilities Are a Reliable Estimate of Semantic Plausibility in Base and Instruction-Tuned Language Models<br>_Carina Kauf, Emmanuele Chersoni, Alessandro Lenci, Evelina Fedorenko, and Anna A Ivanova_
+
+`10:30 - 11:00` Break ☕
+
+`11:00 - 12:30` In-person & virtual **poster** session 1.
+
+`12:30 - 14:00` Lunch 🥪
+
+`14:00 - 15:00` Invited talk by **Himabindu Lakkaraju**
+
+`15:00 - 15:30 **oral** presentations:
+1. Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2<br>_Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, Janos Kramar, Anca Dragan, Rohin Shah, and Neel Nanda_
+2. Mechanistic?<br>_Naomi Saphra and Sarah Wiegreffe_
+
+`15:30 - 16:00` Break ☕
+
+`15:30 - 16:30` In-person **poster** session 2
+
+`16:30 - 16:40` Closing remarks and awards
+
+`17:00 - 18:00` Panel discussion on **Interpretability** with:
+- Dieuwke Hupkes
+- Vera Liao
+- Asma Ghandeharioun
+- Marius Mosbach
+- Jack Merullo
+- Himabindu Lakkaraju
+
+
+
+## Invited Speakers
+- **Jack Merullo**, Brown University
+- **Himabindu Lakkaraju**, Harvard University
+
+## Panel Discussion on "Interpretability"
+Panelists: 
+- Dieuwke Hupkes, Meta
+- Vera Liao, Microsoft 
+- Asma Ghandeharioun, Google DeepMind
+- Marius Mosbach, McGill University
+- Jack Merullo, Brown University
+- Himabindu Lakkaraju, Harvard University
+
+  
 ## Important dates
 
 - ~~**August 19, 2024**~~ - Direct paper submission deadline (OpenReview, [submission link](https://openreview.net/group?id=EMNLP/2024/Workshop/BlackBoxNLP)).
