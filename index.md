@@ -34,7 +34,7 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 
 `16:30 - 16:40` Closing remarks and awards
 
-`16:40 - 17:00` Panel discussion on **Interpretability** with:
+`16:40 - 17:30` Panel discussion on **Interpretability** with:
 - Dieuwke Hupkes
 - Vera Liao
 - Asma Ghandeharioun
