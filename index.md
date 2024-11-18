@@ -7,6 +7,10 @@ The seventh edition of BlackboxNLP will be co-located with EMNLP, in Miami on No
 - Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp).
 - We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. 
 
+## Best Papers
+- **Best Paper BlackboxNLP 2024**: Log Probabilities Are a Reliable Estimate of Semantic Plausibility in Base and Instruction-Tuned Language Models<br>_Carina Kauf, Emmanuele Chersoni, Alessandro Lenci, Evelina Fedorenko, and Anna A Ivanova_
+- **Outstanding Paper BlackboxNLP 2024**: Routing in Sparsely-gated Language Models responds to Context<br>_Stefan Arnold, Marian Fietta, and Dilara Yesilbas_
+
 ## Programme
 `9:00 -  9:10` Opening remarks
 
